@@ -5,14 +5,14 @@ An end-to-end data analytics project leveraging Python, SQL, and Power BI to unc
 This project analyzes retail transaction data to understand how customers interact with products and what drives their purchasing decisions. By integrating multiple data tools, I transformed raw transactional data into actionable business intelligence, focusing on customer segmentation, seasonal trends, and revenue optimization.
 
 🛠️ Tech Stack
-Database: SQL (PostgreSQL/MySQL) – Data extraction, cleaning, and complex aggregations.
+Database: SQL (MySQL) – Data extraction, cleaning, and complex aggregations.
 
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn) – Exploratory Data Analysis (EDA) and statistical testing.
 
 Visualization: Power BI – Interactive dashboards and executive reporting.
 
 📂 Project Structure
-Plaintext
+
 ├── data/                   # Dataset files (Raw and Processed)
 ├── notebooks/              # Jupyter Notebooks for EDA & Python analysis
 ├── sql_queries/            # SQL scripts for data extraction & transformation
