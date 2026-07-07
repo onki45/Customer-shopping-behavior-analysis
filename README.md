@@ -11,10 +11,4 @@ Programming: Python (Pandas, NumPy, Matplotlib, Seaborn) – Exploratory Data An
 
 Visualization: Power BI – Interactive dashboards and executive reporting.
 
-📂 Project Structure
 
-├── data/                   # Dataset files (Raw and Processed)
-├── notebooks/              # Jupyter Notebooks for EDA & Python analysis
-├── sql_queries/            # SQL scripts for data extraction & transformation
-├── power_bi/               # Power BI file (.pbix) and dashboard screenshots
-└── README.md               # Project documentation
